@@ -1,0 +1,12 @@
+node_modules/
+ios/
+android/
+windows/
+public/
+build/
+vendor/
+.bundle/
+.husky/
+.vscode/
+src/data/queries/
+src/data/schemas/
