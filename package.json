@@ -1,0 +1,24 @@
+{
+  "name": "react-native-boilerplate",
+  "version": "0.0.1",
+  "description": "React Native Template",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HamidrezaLashgari/react-native-boilerplate.git"
+  },
+  "keywords": [
+    "React-native",
+    "jest",
+    "native",
+    "react-native-paper",
+    "template",
+    "typescript"
+  ],
+  "author": "Hamidreza Lashgari <H.lashgari98@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HamidrezaLashgari/react-native-boilerplate/issues"
+  },
+  "homepage": "https://github.com/HamidrezaLashgari/react-native-boilerplate#readme"
+}
