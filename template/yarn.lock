@@ -6023,6 +6023,11 @@ react-is@^17.0.1:
   resolved "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-eject@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-eject/-/react-native-eject-0.2.0.tgz#84b5bd123e883562e72801d23028bff062f9fbb3"
+  integrity sha512-muPhImNfKWa9hsdkrYeIkXM8/6lhZj3NnFCxI7kRrD3F50l6a6lc7crRWjg0i0aBt6XdkoE4efATjxCRkmTOFA==
+
 react-native-paper@^5.10.6:
   version "5.10.6"
   resolved "https://registry.npmjs.org/react-native-paper/-/react-native-paper-5.10.6.tgz"
