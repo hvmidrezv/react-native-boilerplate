@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.mobile"
+    namespace "com.projectname"
     defaultConfig {
-        applicationId "com.mobile"
+        applicationId "com.projectname"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

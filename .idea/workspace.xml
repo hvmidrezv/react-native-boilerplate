@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8b4fafe2-eac4-4879-a0a5-ccd3ec68e30c" name="Changes" comment="feat: add placeholder">
+      <change beforePath="$PROJECT_DIR$/template.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/template.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/debug.keystore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/debug/java/com/mobile/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/java/com/mobile/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/java/com/mobile/MainApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/drawable/rn_edit_text_material.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/app/src/release/java/com/mobile/ReactNativeFlipper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/.xcode.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile.xcodeproj/xcshareddata/xcschemes/mobile.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/AppDelegate.mm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/Images.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/Images.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobile/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobileTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/ios/mobileTests/mobileTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/configuration/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/configuration/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/template/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="webtest" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/6" />
+                    <option name="lastUsedInstant" value="1696788024" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1696787276" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="webtest" />
+                    <option name="lastUsedInstant" value="1696773455" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="feat/5" />
+                    <option name="lastUsedInstant" value="1696767102" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="GithubProjectSettings">
+    <option name="branchProtectionPatterns">
+      <list>
+        <option value="main" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="PackageJsonUpdateNotifier">
+    <dismissed value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2WTpPEVIdb1NzWbywNCOXIjFfOh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feat/6&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;16.20.1&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;16.18.58&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Proshits/boilerplate/react-native-boilerplate/template/web&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;prettierjs.PrettierConfiguration.Package&quot;: &quot;E:\\Proshits\\boilerplate\\react-native-boilerplate\\template\\node_modules\\prettier&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.javascript.prettier&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;E:\\Proshits\\boilerplate\\react-native-boilerplate\\template\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Proshits\boilerplate\react-native-boilerplate\template\web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="android" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/template/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="android" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/template/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.android" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b4fafe2-eac4-4879-a0a5-ccd3ec68e30c" name="Changes" comment="" />
+      <created>1691226634628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1691226634628</updated>
+      <workItem from="1696766398838" duration="410000" />
+      <workItem from="1696766816982" duration="1861000" />
+      <workItem from="1696773362443" duration="2704000" />
+      <workItem from="1696787243167" duration="1455000" />
+      <workItem from="1696788726531" duration="25000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix: eslint">
+      <option name="closed" value="true" />
+      <created>1696767139703</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696767139703</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix: something">
+      <option name="closed" value="true" />
+      <created>1696768042912</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696768042912</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fix: something">
+      <option name="closed" value="true" />
+      <created>1696787267780</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696787267780</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="fix: eslint" />
+    <MESSAGE value="fix: something" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: something" />
+  </component>
+</project>
