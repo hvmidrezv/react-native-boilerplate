@@ -1,5 +1,5 @@
-import {DefaultTheme as NavigationDefaultTheme} from '@react-navigation/native';
 import {adaptNavigationTheme, MD3LightTheme} from 'react-native-paper';
+import {DefaultTheme as NavigationDefaultTheme} from '@react-navigation/native';
 
 import {spacingUnit} from './configs';
 import type {Theme} from './types';

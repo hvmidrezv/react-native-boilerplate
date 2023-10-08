@@ -1,3 +1,29 @@
 {
-  "extends": "@tsconfig/react-native/tsconfig.json"
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  "compilerOptions": {
+    "types": [
+      "node"
+    ],
+    "lib": [
+      "dom",
+      "esnext",
+      "webworker"
+    ],
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "module": "esnext",
+    "noFallthroughCasesInSwitch": true,
+    "jsx": "react-jsx"
+  },
+  "include": [
+    "src",
+    "index.web.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "build",
+    "android",
+    "ios",
+    "public"
+  ]
 }
