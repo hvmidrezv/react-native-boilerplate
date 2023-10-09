@@ -1,9 +1,10 @@
-import {Text} from 'react-native-paper';
 import {SafeAreaProvider as SafeArea} from 'react-native-safe-area-context';
+
+import Navigation from '@src/navigation';
 
 const App = () => (
   <SafeArea>
-    <Text>ProjectTitle</Text>
+    <Navigation />
   </SafeArea>
 );
 
