@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="8b4fafe2-eac4-4879-a0a5-ccd3ec68e30c" name="Changes" comment="feat: add placeholder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/template/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/template/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/components/screens/Home/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/components/screens/Home/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/src/theme/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/template/src/theme/theme.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -94,8 +94,8 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "javascript.nodejs.core.library.configured.version": "16.20.1",
-    "javascript.nodejs.core.library.typings.version": "16.18.58",
-    "last_opened_file_path": "E:/Proshits/react-native-boilerplate/template/src/navigation",
+    "javascript.nodejs.core.library.typings.version": "16.18.59",
+    "last_opened_file_path": "D:/Proshits/react-native-boilerplate",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
@@ -103,9 +103,9 @@
     "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
-    "prettierjs.PrettierConfiguration.Package": "E:\\Proshits\\react-native-boilerplate\\template\\node_modules\\prettier",
+    "prettierjs.PrettierConfiguration.Package": "D:\\Proshits\\react-native-boilerplate\\template\\node_modules\\prettier",
     "settings.editor.selected.configurable": "settings.javascript.prettier",
-    "ts.external.directory.path": "E:\\Proshits\\react-native-boilerplate\\template\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "D:\\Proshits\\react-native-boilerplate\\template\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -157,6 +157,7 @@
       <workItem from="1696787243167" duration="1455000" />
       <workItem from="1696788726531" duration="25000" />
       <workItem from="1696857678647" duration="646000" />
+      <workItem from="1698697086055" duration="860000" />
     </task>
     <task id="LOCAL-00001" summary="fix: eslint">
       <option name="closed" value="true" />

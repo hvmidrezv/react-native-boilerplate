@@ -14,9 +14,9 @@ export const Palette: Theme = {
   spacing,
   colors: {
     ...MD3LightTheme.colors,
-    primary: '#fff',
+    primary: '#936ee3',
     primaryContainer: '#fff',
-    onPrimary: '#fff',
+    onPrimary: '#ffffff',
     secondary: '#fff',
     onSurface: '#fff',
     onBackground: '#fff',
